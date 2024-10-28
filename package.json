@@ -1,0 +1,33 @@
+{
+  "name": "lec2",
+  "version": "1.0.0",
+  "description": "dz2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaGamzina/lec2.git"
+  },
+  "keywords": [
+    "dz2",
+    "homework"
+  ],
+  "author": "Maria Gamzina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaGamzina/lec2/issues"
+  },
+  "homepage": "https://github.com/MariaGamzina/lec2#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^9.13.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-react": "^7.37.2",
+    "globals": "^15.11.0",
+    "prettier": "^3.3.3"
+  }
+}
